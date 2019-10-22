@@ -2,19 +2,8 @@
     "name": "filmin/rollbar-laravel",
     "description": "Rollbar error monitoring integration for Laravel projects",
     "keywords": ["laravel", "rollbar", "monitoring", "error", "logging"],
-    "homepage": "https://github.com/rollbar/rollbar-php-laravel",
+    "homepage": "https://github.com/filmin/rollbar-php-laravel",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jens Segers",
-            "homepage": "https://jenssegers.com"
-        },
-        {
-            "name": "Artur Moczulski",
-            "email": "artur.moczulski@gmail.com",
-            "role": "Contractor @ Rollbar, Inc."
-        }
-    ],
     "require": {
         "php": ">=7.2",
         "illuminate/support": "^6.0",
